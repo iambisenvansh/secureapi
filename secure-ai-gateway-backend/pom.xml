@@ -19,8 +19,7 @@
     <description>AI-Powered Secure API Gateway Backend</description>
 
     <properties>
-        <!-- You can keep 21 if your JDK is 21. If you use JDK 17, change this to 17 -->
-        <java.version>21</java.version>
+        <java.version>17</java.version>
     </properties>
 
     <dependencies>
